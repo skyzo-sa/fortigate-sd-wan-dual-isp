@@ -36,17 +36,7 @@ The **FortiGate Firewall** uses **SD-WAN** to intelligently route traffic based 
 > 📌 Topology diagram located in `/topology` or `/screenshots`
 
 ```
-[ ISP-1 ]      [ ISP-2 ]
-    |              |
-    |              |
-   port1         port2
-      \           /
-       \         /
-        [ FortiGate ]
-             |
-            port3
-             |
-           [ LAN ]
+https://github.com/skyzo-sa/fortigate-sd-wan-dual-isp/blob/main/topology/topology.png
 ```
 
 ---
