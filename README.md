@@ -24,8 +24,8 @@ fortigate-sd-wan-dual-isp/
 
 This lab simulates an enterprise network edge connected to **two ISP links** using Cisco routers acting as upstream providers:
 
-- **ISP 1:** Echotel (Airtel)
-- **ISP 2:** Cool-Ideas (BSNL)
+- **ISP 1:** Echotel (R1)
+- **ISP 2:** Cool-Ideas (R2)
 
 The **FortiGate Firewall** uses **SD-WAN** to intelligently route traffic based on link performance and availability.
 
@@ -33,7 +33,7 @@ The **FortiGate Firewall** uses **SD-WAN** to intelligently route traffic based 
 
 ## 🖥️ Topology
 
-> 📌 Topology diagram located in `/topology` or `/screenshots`
+> 📌 Topology diagram located in `/topology`
 
 
 <img width="1152" height="1562" alt="topology" src="https://github.com/skyzo-sa/fortigate-sd-wan-dual-isp/blob/main/topology/topology.png" />
