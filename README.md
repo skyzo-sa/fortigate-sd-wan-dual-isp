@@ -184,7 +184,7 @@ Common checks:
 ## 👨‍💻 Author
 
 **Thokozane Mpanza**  
-IT Support Engineer  
+Network Engineer  
 
 ---
 
