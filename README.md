@@ -4,22 +4,6 @@ This project demonstrates how to configure a **dual-ISP SD-WAN solution** using 
 
 ---
 
-## 📁 Project Structure
-
-```
-fortigate-sd-wan-dual-isp/
-│
-├── configs/           # Device configurations (FortiGate & Cisco)
-├── docs/              # Detailed documentation
-├── screenshots/       # GUI and verification screenshots
-├── topology/          # Network topology diagrams
-├── troubleshooting/   # Debugging and issue resolution notes
-├── verification/      # Testing and validation outputs
-└── README.md          # Project overview
-```
-
----
-
 ## 🧠 Lab Overview
 
 This lab simulates an enterprise network edge connected to **two ISP links** using Cisco routers acting as upstream providers:
